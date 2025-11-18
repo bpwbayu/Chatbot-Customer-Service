@@ -57,16 +57,11 @@ Model used:
 ---
 ## 🚀 How to Run
 - Ensure all required packages are installed:
-```
-pip install pandas numpy scikit-learn re joblib matplotlib seaborn nltk streamlit
-```
+
+  ```pip install pandas numpy scikit-learn re joblib matplotlib seaborn nltk streamlit```
 - Run the notebook in Jupyter or VS Code:
   
-```
-jupyter notebook Project_ChatbotCustomerSupport.ipynb
-```
+  ```jupyter notebook Project_ChatbotCustomerSupport.ipynb```
 - Run the Streamlit:
   
-```
-streamlit run app.py
-```
+  ```streamlit run app.py```
